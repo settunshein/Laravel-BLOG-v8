@@ -1,0 +1,10 @@
+/* Mainly Left Tasks */
+# Pagination ( User Side ) 
+# Comment & Reply Section  ( Skip Reply Section )
+# Dashboard ( Adding Widget Box )
+
+- Search by Post Title ( User Side ) <--
+- Comment ( Admin Side + Author Side )
+- Double Check Again Access Control ( Both User and Author )
+
+

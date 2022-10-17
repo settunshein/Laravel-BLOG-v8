@@ -1,0 +1,81 @@
+[
+    {
+        "id"          : 1,
+        "name"        : "HTML",
+        "logo"        : "fab fa-html5",
+        "color"       : "#E34C26",
+        "created_at"  : "2022-01-01 00:00:00"
+    },
+
+    {
+        "id"          : 2,
+        "name"        : "CSS",
+        "logo"        : "fab fa-css3-alt",
+        "color"       : "#264DE4",
+        "created_at"  : "2022-01-02 00:00:00"
+    },
+
+    {
+        "id"          : 3,
+        "name"        : "JavaScript",
+        "logo"        : "fab fa-js-square",
+        "color"       : "#F0DB4F",
+        "created_at"  : "2022-01-03 00:00:00"
+    },
+
+    {
+        "id"          : 4,
+        "name"        : "Bootstrap",
+        "logo"        : "fab fa-bootstrap",
+        "color"       : "#563D7C",
+        "created_at"  : "2022-01-04 00:00:00"
+    },
+
+    {
+        "id"          : 5,
+        "name"        : "Database",
+        "logo"        : "fas fa-database",
+        "color"       : "#00758F",
+        "created_at"  : "2022-01-05 00:00:00"
+    },
+
+    {
+        "id"          : 6,
+        "name"        : "PHP",
+        "logo"        : "fab fa-php",
+        "color"       : "#474ABA",
+        "created_at"  : "2022-01-06 00:00:00"
+    },
+
+    {
+        "id"          : 7,
+        "name"        : "Laravel",
+        "logo"        : "fab fa-laravel",
+        "color"       : "#F05340",
+        "created_at"  : "2022-01-07 00:00:00"
+    },
+
+    {
+        "id"          : 8,
+        "name"        : "Vue JS",
+        "logo"        : "fab fa-vuejs",
+        "color"       : "#41B883",
+        "created_at"  : "2022-01-08 00:00:00"
+    },
+
+    {
+        "id"          : 9,
+        "name"        : "React JS",
+        "logo"        : "fab fa-react",
+        "color"       : "#36DFF8",
+        "created_at"  : "2022-01-09 00:00:00"
+    },
+
+    {
+        "id"          : 10,
+        "name"        : "GitHub",
+        "logo"        : "fab fa-github-square",
+        "color"       : "#211F1F",
+        "created_at"  : "2022-01-10 00:00:00"
+    }
+]
