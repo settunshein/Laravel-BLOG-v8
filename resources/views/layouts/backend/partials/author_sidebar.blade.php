@@ -22,7 +22,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link @yield('comment-active')" href="">
+                <a class="nav-link @yield('comment-active')" href="{{ route('author.comment.index') }}">
                     <span data-feather="message-square"></span>
                     Comment
                 </a>

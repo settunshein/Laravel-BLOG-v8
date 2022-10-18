@@ -64,6 +64,9 @@ Route::group([ 'as'=>'admin.', 'prefix'=>'admin', 'middleware'=>['auth', 'admin_
         Route::get('/password/edit',  'showEditPasswordPage')->name('password.edit');
         Route::post('/password/edit', 'submitEditPasswordPage')->name('password.update');
     });
+
+    // Comment Module
+    Route::resource('comment', AdminCommentController::class)->only(['index', 'destroy']);
 });
 
 

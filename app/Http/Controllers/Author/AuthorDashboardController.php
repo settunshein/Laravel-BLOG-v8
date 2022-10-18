@@ -17,6 +17,7 @@ class AuthorDashboardController extends Controller
         $category_count = Category::all()->count();
         $post_count     = Post::all()->count();
         $user_count     = User::all()->count();
+        
         return view('author.dashboard', compact('tag_count', 'category_count', 'post_count', 'user_count'));
     }
 }
